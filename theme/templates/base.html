@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang={{ DEFAULT_LANG }}>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="{{ AUTHOR }}">
+    <meta name="description" content="Stránky věnované knize Paměť slona od Petera Hankse, která vypráví nejen o životě v Jižní Africe.">
+    <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/main.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet"> 
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ SITEURL }}/theme/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ SITEURL }}/theme/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ SITEURL }}/theme/images/favicon-16x16.png">
+    <link rel="manifest" href="{{ SITEURL }}/theme/images/site.webmanifest">
+    <title>{% block title %}{% endblock %}</title>
+</head>
+<body>
+    <div class="page">
+        <nav class="navigation">
+            <ul>
+                <li><a href="{{ SITEURL }}/index.html">Domů</a></li>
+            </ul>
+        </nav>
+        <header>{% block header %}{% endblock %}</header>
+        <main class="main">
+            {% block content %}{% endblock %}
+        </main>
+        <footer class="footer">
+            <p>Nervózní slon je nebezpečnější než hladová lvice...</p>
+            <p>2015-2021 Petr Hanek. Všechna práva vyhrazena.</p>
+            <p>Autorem původní fotografie ze dne okupace Československa v roce 1968 je František Dostál <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a></p>
+        </footer>
+    </div>
+</body>
+</html>
