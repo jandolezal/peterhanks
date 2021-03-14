@@ -9,7 +9,7 @@
 {% block content %}
     <section class="summary">
         <h1>{{ SITENAME }}</h1>
-        <p>Paměť slona je dobrodružný cestopis, který vás zábavným i napínavým způsobem zavede z obsazeného Československa v roce 1968 až na jih Afriky, kde Petr Hanek, autor knihy, prožil mnoho let. </p>
+        <p>Paměť slona je dobrodružný cestopis, který vás zábavným i napínavým způsobem zavede z obsazeného Československa v roce 1968 až na jih Afriky, kde Petr Hanek, autor knihy, prožil mnoho let. Pár úryvků z knížky nabízíme na těchto stránkách.</p>
         <a href="https://www.kosmas.cz/knihy/203735/pamet-slona/">Koupit knihu  &gt;</a>
     </section>
     <section class="list">
@@ -22,7 +22,7 @@
                         <img src="{{ article.roundimage }}" alt="Ilustrační fotografie">
                     </div>
                     <div class="article-preview-perex">
-                        <p>{{ article.content|truncate(300) }}</p>
+                        {{ article.content|truncate(300) }}
                         <p><a href="{{ article.url }}">Číst dál  &gt;</a></p>
                     </div>
                 </div>

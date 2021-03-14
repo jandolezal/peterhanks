@@ -11,7 +11,14 @@
 
 .header-image {
     height: 300px;
-    background-image: url("/theme/images/elephant-index-medium.jpg");
+    background-image: url("/theme/images/elephant-header-medium.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.author-header-image {
+    height: 300px;
+    background-image: url("/theme/images/passport-header-medium.jpg");
     background-size: cover;
     background-position: 50% 50%;
 }
@@ -46,16 +53,11 @@ a,
     font-size: 0.8em;
 }
 
-nav, main {
-    /* margin: 1.2rem; */
-}
-
 
 h1, h2 {
     margin-top: 1.2rem;
     margin-bottom: 0.5rem;
 }
-
 
 .article-preview img {
     width: 250px;
@@ -81,16 +83,33 @@ ul {
 
 a {
     text-decoration-line: none;
-    padding: 14px 14px 14px 0;
 }
 
+.navigation ul {
+    display: flex;
+    flex-direction: column;
+}
 
-.summary, .list, .navigation, .footer, .article {
+.navigation li {
+    margin-bottom: 1.1rem;
+    margin-right: 1.1rem;
+}
+
+.navigation a {
+    padding: 10px 10px 10px 0;
+}
+
+.summary, .list, .navigation, .footer, .article, .author {
     margin: 1.2rem;
+    padding: 1.1rem 0;
 }
 
-.article p, .article-preview {
-    padding-bottom: 2rem;
+.article p {
+    margin-bottom: 2rem;
+}
+
+.main p {
+    margin-bottom: 2rem;
 }
 
 .article a, .article-preview a {
@@ -103,8 +122,27 @@ a {
         margin-top: 3rem;
     }
 
+    .navigation ul {
+        display: flex;
+        flex-direction: row;
+    }
+
     .article-preview-container {
         display: flex;
     }
+
+    .article-preview-perex p {
+        padding-left: 1.5rem;
+    }
+
+    .list ul {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .list ul li {
+        margin-bottom: 4rem;
+    }
+
 }
 

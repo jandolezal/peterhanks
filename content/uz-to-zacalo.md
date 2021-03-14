@@ -8,6 +8,8 @@ roundimage: images/tank-square.jpg
 
 Za několik minut jsme se již přes Vinohrady blížili k místu nejznámější bitvy roku šedesát osm v Praze. Již od náměstí Jiřího z Poděbrad jsme slyšeli střelbu z velkorážních zbraní a na spodním konci Stalinovy, nyní Vinohradské třídy, bylo vidět vysoko vystupující černý kouř. Zaparkovali jsme motorku v Mánesce ve vchodu jednoho domu a k  rozhlasu jsme pokračovali pěšky.
 
+![Fotografie ze dne okupace Československa v roce 1968]({static}/images/frantisek-dostal-srpen-1968.jpg)
+
 Brzy jsme narazili na obří barikádu z převrácených autobusů linky 137 naplněných dlažebními kostkami. ... Shodou okolností je tam přistavil můj kamarád Tůma s kolegou, který dělal šoféra u dopravních podniků. Po obou stranách barikády i na ní pobíhalo spoustu mladých lidí a snažilo se bojovat s Rusáky. Házeli po nich dlaždičky a láhve s petrolejem. Na rohu byl krám Barvy-Laky, který dav spontánně vydrancoval. Plechovky s acetonovými a fermežovými barvami báječně posloužily jako zápalné bomby a obránci rádia je házeli na tanky.
 
 (...)

@@ -15,6 +15,10 @@ THEME = 'theme'
 DELETE_OUTPUT_DIRECTORY = True
 ARTICLE_ORDER_BY = 'modified'
 
+AUTHOR_SAVE_AS = 'author.html'
+AUTHORS_SAVE_AS = ''
+
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None

@@ -8,6 +8,8 @@ roundimage: images/passport-square.jpg
 
 Do Slávie jsem dorazil s velkým předstihem, dlouho před čtvrtou. Bylo otevřeno. Sedl jsem si k oknu, tak abych viděl na most Legií a koukal jsem přímo do ústí děla ruského tanku. Nebyl to veselý pohled a říkal jsem si pro sebe, co tím chtějí dokázat? Objednal jsem si kávu u staršího číšníka, který mě za chvíli obsloužil se slovy: „Neměl byste tady zůstávat, mladý pane, vás je tady škoda, já jsem byl za války v Anglii, moc se mi tam líbilo, ale neměl jsem se vracet.“
 
+![Dokument uprchlíka z okupovaného Československa]({static}/images/passport-medium.jpg)
+
 Ujistil jsem ho, že když se mi povede utéct, tak že se hned tak nevrátím. Než jsem stačil dopít kávu, objevil se Martin s dlouhovlasým mladíkem, máňou, jak se tenkrát říkalo. „Ahoj, tohle je Pepík Voderlint, hraje v Juventusu na baskytaru,“ oznamoval Martin. „Tak si sedněte,“ řekl jsem. „O co jde?“
 
 „Jaký je to pas a jak to, že máš dva?“ zajímalo mne, protože to nebyla za komunistů běžná věc, mít dva pasy. ... „Jezdím hrát ven přes Pragokoncert, a tak mám kromě normálního pasu navíc jeden služební,“ vysvětloval, kytarista. „A jsou v něm ještě platná víza do Rakouska, můžeš na něj okamžitě odjet.“ ... Zeptal jsem se, co by za ten pas chtěl. Vytasil se se sumou tři tisíce korun s tím, že mi dává dvacet čtyři hodin na to, abych ty peníze sehnal.
